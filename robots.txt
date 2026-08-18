@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-sfrcx9.salamcuan.cfd/sitemap.xml
